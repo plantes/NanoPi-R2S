@@ -1,3 +1,13 @@
+## 20200809
+* 新增 luci-app-oled
+
+## 20200723
+* Docker
+
+## 20200718
+* Kernel 5.4.50
+* Clash 更新到 1.0.0
+
 ## 20200515
 * Kernel 5.4.40
 * 支持 RTL8812AU
@@ -50,3 +60,5 @@
 ## 20200226
 * 添加 frpc 和 npc
 * 支持 Full Cone NAT
+
+test new action
